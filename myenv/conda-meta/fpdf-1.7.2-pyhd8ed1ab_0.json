@@ -1,0 +1,195 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3"
+  ],
+  "extracted_package_dir": "C:\\Users\\user\\anaconda3\\pkgs\\fpdf-1.7.2-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/fpdf-1.7.2.dist-info/INSTALLER",
+    "Lib/site-packages/fpdf-1.7.2.dist-info/METADATA",
+    "Lib/site-packages/fpdf-1.7.2.dist-info/RECORD",
+    "Lib/site-packages/fpdf-1.7.2.dist-info/REQUESTED",
+    "Lib/site-packages/fpdf-1.7.2.dist-info/WHEEL",
+    "Lib/site-packages/fpdf-1.7.2.dist-info/direct_url.json",
+    "Lib/site-packages/fpdf-1.7.2.dist-info/top_level.txt",
+    "Lib/site-packages/fpdf/__init__.py",
+    "Lib/site-packages/fpdf/fonts.py",
+    "Lib/site-packages/fpdf/fpdf.py",
+    "Lib/site-packages/fpdf/html.py",
+    "Lib/site-packages/fpdf/php.py",
+    "Lib/site-packages/fpdf/py3k.py",
+    "Lib/site-packages/fpdf/template.py",
+    "Lib/site-packages/fpdf/ttfonts.py",
+    "Lib/site-packages/fpdf/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/fpdf/__pycache__/fonts.cpython-312.pyc",
+    "Lib/site-packages/fpdf/__pycache__/fpdf.cpython-312.pyc",
+    "Lib/site-packages/fpdf/__pycache__/html.cpython-312.pyc",
+    "Lib/site-packages/fpdf/__pycache__/php.cpython-312.pyc",
+    "Lib/site-packages/fpdf/__pycache__/py3k.cpython-312.pyc",
+    "Lib/site-packages/fpdf/__pycache__/template.cpython-312.pyc",
+    "Lib/site-packages/fpdf/__pycache__/ttfonts.cpython-312.pyc"
+  ],
+  "fn": "fpdf-1.7.2-pyhd8ed1ab_0.tar.bz2",
+  "license": "LGPLv3",
+  "link": {
+    "source": "C:\\Users\\user\\anaconda3\\pkgs\\fpdf-1.7.2-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "0fd8c6bf806f615435f5a0e3f729df9d",
+  "name": "fpdf",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\user\\anaconda3\\pkgs\\fpdf-1.7.2-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/fpdf-1.7.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/fpdf-1.7.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4cc01aaad4bd7521df18ca36f06cdf9c95830b130992ac51272c0a9b28ab0666",
+        "sha256_in_prefix": "4cc01aaad4bd7521df18ca36f06cdf9c95830b130992ac51272c0a9b28ab0666",
+        "size_in_bytes": 1174
+      },
+      {
+        "_path": "site-packages/fpdf-1.7.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8b5019b5f342b2a2cf1f952036b80e55c529ad7325baf78ee20d42d2e4760c5c",
+        "sha256_in_prefix": "8b5019b5f342b2a2cf1f952036b80e55c529ad7325baf78ee20d42d2e4760c5c",
+        "size_in_bytes": 1458
+      },
+      {
+        "_path": "site-packages/fpdf-1.7.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/fpdf-1.7.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c9e606c840230153747e9d8ebc072917d499b6bdaf23325cd39dd4a82fe686db",
+        "sha256_in_prefix": "c9e606c840230153747e9d8ebc072917d499b6bdaf23325cd39dd4a82fe686db",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/fpdf-1.7.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "33640b5c93f64d0db077e950ecc4c196fd41cdb6888aa55478c70fe3ab15b598",
+        "sha256_in_prefix": "33640b5c93f64d0db077e950ecc4c196fd41cdb6888aa55478c70fe3ab15b598",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "site-packages/fpdf-1.7.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e4b227a61be5b2512931434d1541652315266ab824a789355aa427a0304017ec",
+        "sha256_in_prefix": "e4b227a61be5b2512931434d1541652315266ab824a789355aa427a0304017ec",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/fpdf/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e0815f2a8f9da17126681b32727c62ca05a553f98b065f2a67fd0a5aed5ac6ad",
+        "sha256_in_prefix": "e0815f2a8f9da17126681b32727c62ca05a553f98b065f2a67fd0a5aed5ac6ad",
+        "size_in_bytes": 415
+      },
+      {
+        "_path": "site-packages/fpdf/fonts.py",
+        "path_type": "hardlink",
+        "sha256": "ce576079df5b9dd64c259920f6c5dbd6717abeff22eca84c06ba4930e70a0de7",
+        "sha256_in_prefix": "ce576079df5b9dd64c259920f6c5dbd6717abeff22eca84c06ba4930e70a0de7",
+        "size_in_bytes": 26573
+      },
+      {
+        "_path": "site-packages/fpdf/fpdf.py",
+        "path_type": "hardlink",
+        "sha256": "aa835dfd8127d2605240e6c6f1e00238f3570ef4f078994315fcb0e8b422eef5",
+        "sha256_in_prefix": "aa835dfd8127d2605240e6c6f1e00238f3570ef4f078994315fcb0e8b422eef5",
+        "size_in_bytes": 75624
+      },
+      {
+        "_path": "site-packages/fpdf/html.py",
+        "path_type": "hardlink",
+        "sha256": "8d8a95d286ad23b7b9a52e151ecc07f547b47f1f5161d9f84221641bc169dd7f",
+        "sha256_in_prefix": "8d8a95d286ad23b7b9a52e151ecc07f547b47f1f5161d9f84221641bc169dd7f",
+        "size_in_bytes": 14733
+      },
+      {
+        "_path": "site-packages/fpdf/php.py",
+        "path_type": "hardlink",
+        "sha256": "d14c059b5b51ec348e5c7f3178d3806e86ac932b739cbe83a5ca7553223adf28",
+        "sha256_in_prefix": "d14c059b5b51ec348e5c7f3178d3806e86ac932b739cbe83a5ca7553223adf28",
+        "size_in_bytes": 1516
+      },
+      {
+        "_path": "site-packages/fpdf/py3k.py",
+        "path_type": "hardlink",
+        "sha256": "03ae44e4bf7cf5f28462811f40360323cfa1a4240ea802e3301172b2966cbc98",
+        "sha256_in_prefix": "03ae44e4bf7cf5f28462811f40360323cfa1a4240ea802e3301172b2966cbc98",
+        "size_in_bytes": 1602
+      },
+      {
+        "_path": "site-packages/fpdf/template.py",
+        "path_type": "hardlink",
+        "sha256": "f0027ffa860b061d9968839742b16d329f6c5b265a8e0a634812435b1aa42f65",
+        "sha256_in_prefix": "f0027ffa860b061d9968839742b16d329f6c5b265a8e0a634812435b1aa42f65",
+        "size_in_bytes": 9282
+      },
+      {
+        "_path": "site-packages/fpdf/ttfonts.py",
+        "path_type": "hardlink",
+        "sha256": "751c1a009179eb7239968cb9825af0d7603d193491a43dd4f8c61f642e136c91",
+        "sha256_in_prefix": "751c1a009179eb7239968cb9825af0d7603d193491a43dd4f8c61f642e136c91",
+        "size_in_bytes": 40412
+      },
+      {
+        "_path": "Lib/site-packages/fpdf/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fpdf/__pycache__/fonts.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fpdf/__pycache__/fpdf.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fpdf/__pycache__/html.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fpdf/__pycache__/php.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fpdf/__pycache__/py3k.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fpdf/__pycache__/template.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fpdf/__pycache__/ttfonts.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "fpdf",
+  "sha256": "c6098076ff6a7c82ec21312922a31b714846d8ba4183c8dcb9b3287f086afc2e",
+  "size": 43343,
+  "subdir": "noarch",
+  "timestamp": 1606859509000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/fpdf-1.7.2-pyhd8ed1ab_0.tar.bz2",
+  "version": "1.7.2"
+}
